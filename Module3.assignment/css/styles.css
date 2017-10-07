@@ -1,0 +1,41 @@
+body{
+	color: black;
+
+	font-size: 16px; 
+}
+/*.row {
+  margin-bottom: 15px;
+}
+.row > div {
+  border: 2px solid red;
+  background-color: gray;
+}*/
+#header-nav{
+	background-color: yellow;
+	border-radius: 0;
+	border: 0; 
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+.navbar-header span{
+	text-align: center;
+	color: black;
+}
+
+#nav-list{
+	margin-top: 10px;
+	background-color:#EE82EE;
+	/*border: 1px solid #61122f: */
+
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover{
+	background: #E7E7E7;
+}
+.container{
+	background-color: pink;
+}
